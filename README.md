@@ -11,14 +11,17 @@ A simple TODO application built using Python Flask and SQLAlchemy. The app allow
 
 ## Screenshots
 
+### Overview
+![Add Task](Screenshots/Overview.png)
+
 ### Add Task
-![Add Task](path/to/your/image1.png)
+![Add Task](Screenshots/Add Task.png)
 
 ### Task List
-![Task List](path/to/your/image2.png)
+![Task List](Screenshots/Task List.png)
 
 ### Task Options
-![Task Options](path/to/your/image3.png)
+![Task Options](Screenshots/Task Options.png)
 
 ## Installation
 
